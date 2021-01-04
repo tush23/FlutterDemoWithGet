@@ -1,0 +1,13 @@
+{
+        "id": 9,
+        "user_id": 32,
+        "account_number": "asasas212222",
+        "holder_name": "sadc d",
+        "branch_name": "DELHI",
+        "bank_name": "YES Bank",
+        "ifsc_code": null,
+        "visibility": 0,
+        "deleted_at": null,
+        "created_at": "2020-12-29 13:22:23",
+        "updated_at": "2021-01-04 19:57:21"
+    }
