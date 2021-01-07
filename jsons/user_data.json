@@ -1,9 +1,0 @@
-{
-    "verified": false,
-    "data": "$data",
-    "bank_data": "$bank_data",
-    "vehicle_data": "$vehichle_data",
-    "address_data": "$[]address_data",
-    "message": "success",
-    "status": true
-}
